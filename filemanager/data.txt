@@ -1,0 +1,1 @@
+[{"nama":"aldi","goldarah":"A"},{"nama":"sintya","goldarah":"B"},{"nama":"henik","goldarah":"AB"},{"nama":"umam","goldarah":"O"}]
